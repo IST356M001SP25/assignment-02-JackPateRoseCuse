@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jackson Rosenthal
+Sudent Email:  jrosen27@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+This assignment helped me learn stronger on how to build loops that will iterate over texts/files that we ask it to iterate over (in this assignment, we used a json file mostly), and for me, remembering how to use the strip function, and what character I need to strip can sometimes be difficult, and using the split function to make sure to split answers/inputs by word usually as well. Overall, I did have to at times be helped by the solution, but now that I have done this assignment, I have stronger belief in my abilities to create proper functions that can do what is asked of me in the description of what a function wants, and should be able to read in files, and assigning an interator word/character as well. 
